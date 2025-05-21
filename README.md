@@ -15,6 +15,8 @@ We integrate our motion module (MPT) into three different trackers with five mod
 
 ![MPT figure](Results2.png)
 
+We also make a video to show qualitative comparisons on three challenging sequences, which can be found [here[pwd:wxct]]( https://pan.baidu.com/s/1EcL0wxaMUIwFrbYLiX1Hsw?pwd=wxct).
+
 
 ## Installation the environment and set project paths
 The environment installation and training configurations (like project path, pretrained models) are similar to the baseline trackers, e.g., OSTrack, please refer to [OSTrack](https://github.com/botaoye/OSTrack). 
@@ -40,7 +42,7 @@ MODEL:
 Please see eval.sh to find the commands for training and testing.
 
 ## Models and Results
-Models and results can be found [here](todo).
+Models and results can be found [here[pwd:8j2g]](https://pan.baidu.com/s/1WILde5AY7l0cFVm0hdF8hg?pwd=8j2g).
 
 ## Acknowledgments
 We acknowledge the Segment Anything Model ([SAM](https://github.com/facebookresearch/segment-anything)) for inspiring our prompt tracking methodology. 
