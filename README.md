@@ -1,7 +1,7 @@
 # Motion-Prompt-Tracking
 PyTorch implementation of "Efficient Motion Prompt Learning for Robust Visual Tracking" (ICML2025)
 
-Paper and codes will be released soon.
+Paper can be found [here](https://arxiv.org/pdf/2505.16321), and codes will be released soon.
 
 ## Introduction
 In this paper, we propose a lightweight and plug-and-play motion prompt tracking method (MPT). It can be easily integrated into existing vision-based trackers to build a joint tracking framework leveraging both motion and vision cues, thereby achieving robust tracking through efficient prompt learning. A motion encoder with three different positional encodings is proposed to encode the long-term motion trajectory into the visual embedding space, while a fusion decoder and an adaptive weight mechanism are designed to dynamically fuse visual and motion features.
