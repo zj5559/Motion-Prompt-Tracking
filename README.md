@@ -22,7 +22,7 @@ We also make a video to show qualitative comparisons on three challenging sequen
 The environment installation and training configurations (like project path, pretrained models) are similar to the baseline trackers, e.g., OSTrack, please refer to [OSTrack](https://github.com/botaoye/OSTrack). 
 
 ## Data Preparation
-Download the trajectory data of the three training datasets (LaSOT, GOT-10K, TrackingNet) [here](todo), and put them in ./traj_data. It should look like this:
+Download the trajectory data of the three training datasets (LaSOT, GOT-10K, TrackingNet) [here[pwd:qght]](https://pan.baidu.com/s/1jUf4BhDEZPKzmW204zQrxQ?pwd=qght), and put them in ./traj_data. It should look like this:
   ```
   ${PROJECT_ROOT}
     -- traj_data
