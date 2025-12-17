@@ -18,7 +18,7 @@ We integrate our motion module (MPT) into three different trackers with five mod
 We also make a video to show qualitative comparisons on three challenging sequences, which can be found [here[pwd:wxct]]( https://pan.baidu.com/s/1EcL0wxaMUIwFrbYLiX1Hsw?pwd=wxct).
 
 
-## Installation the environment and set project paths
+## Install the environment and set project paths
 The environment installation and training configurations (like project path, pretrained models) are similar to the baseline trackers, e.g., OSTrack, please refer to [OSTrack](https://github.com/botaoye/OSTrack). 
 
 ## Data Preparation
